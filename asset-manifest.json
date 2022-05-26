@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/-create-and-deploy-a-react-app-to-github-pages/static/css/main.81d084cf.chunk.css",
-    "main.js": "/-create-and-deploy-a-react-app-to-github-pages/static/js/main.2218412f.chunk.js",
-    "main.js.map": "/-create-and-deploy-a-react-app-to-github-pages/static/js/main.2218412f.chunk.js.map",
-    "runtime-main.js": "/-create-and-deploy-a-react-app-to-github-pages/static/js/runtime-main.ad5586b0.js",
-    "runtime-main.js.map": "/-create-and-deploy-a-react-app-to-github-pages/static/js/runtime-main.ad5586b0.js.map",
-    "static/js/2.dabce153.chunk.js": "/-create-and-deploy-a-react-app-to-github-pages/static/js/2.dabce153.chunk.js",
-    "static/js/2.dabce153.chunk.js.map": "/-create-and-deploy-a-react-app-to-github-pages/static/js/2.dabce153.chunk.js.map",
-    "static/js/3.ea53d7aa.chunk.js": "/-create-and-deploy-a-react-app-to-github-pages/static/js/3.ea53d7aa.chunk.js",
-    "static/js/3.ea53d7aa.chunk.js.map": "/-create-and-deploy-a-react-app-to-github-pages/static/js/3.ea53d7aa.chunk.js.map",
-    "index.html": "/-create-and-deploy-a-react-app-to-github-pages/index.html",
-    "static/css/main.81d084cf.chunk.css.map": "/-create-and-deploy-a-react-app-to-github-pages/static/css/main.81d084cf.chunk.css.map",
-    "static/js/2.dabce153.chunk.js.LICENSE.txt": "/-create-and-deploy-a-react-app-to-github-pages/static/js/2.dabce153.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/-create-and-deploy-a-react-app-to-github-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/create-and-deploy-a-react-app-to-github-pages/static/css/main.81d084cf.chunk.css",
+    "main.js": "/create-and-deploy-a-react-app-to-github-pages/static/js/main.ce1e3246.chunk.js",
+    "main.js.map": "/create-and-deploy-a-react-app-to-github-pages/static/js/main.ce1e3246.chunk.js.map",
+    "runtime-main.js": "/create-and-deploy-a-react-app-to-github-pages/static/js/runtime-main.81b8b291.js",
+    "runtime-main.js.map": "/create-and-deploy-a-react-app-to-github-pages/static/js/runtime-main.81b8b291.js.map",
+    "static/js/2.dabce153.chunk.js": "/create-and-deploy-a-react-app-to-github-pages/static/js/2.dabce153.chunk.js",
+    "static/js/2.dabce153.chunk.js.map": "/create-and-deploy-a-react-app-to-github-pages/static/js/2.dabce153.chunk.js.map",
+    "static/js/3.ea53d7aa.chunk.js": "/create-and-deploy-a-react-app-to-github-pages/static/js/3.ea53d7aa.chunk.js",
+    "static/js/3.ea53d7aa.chunk.js.map": "/create-and-deploy-a-react-app-to-github-pages/static/js/3.ea53d7aa.chunk.js.map",
+    "index.html": "/create-and-deploy-a-react-app-to-github-pages/index.html",
+    "static/css/main.81d084cf.chunk.css.map": "/create-and-deploy-a-react-app-to-github-pages/static/css/main.81d084cf.chunk.css.map",
+    "static/js/2.dabce153.chunk.js.LICENSE.txt": "/create-and-deploy-a-react-app-to-github-pages/static/js/2.dabce153.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/create-and-deploy-a-react-app-to-github-pages/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad5586b0.js",
+    "static/js/runtime-main.81b8b291.js",
     "static/js/2.dabce153.chunk.js",
     "static/css/main.81d084cf.chunk.css",
-    "static/js/main.2218412f.chunk.js"
+    "static/js/main.ce1e3246.chunk.js"
   ]
 }
